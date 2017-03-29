@@ -637,6 +637,9 @@ public class AmiiboDictionary {
         idList.put(0x031D, "Chelsea (ACCS)");
         idList.put(0x031E, "Toby (ACCS)");
         idList.put(0x034B, "Link (Ocarina of Time) (LOZ)");
+        idList.put(0x034C, "Link (Majora's Mask) (LOZ)");
+        idList.put(0x034D, "Link (Twilight Princess) (LOZ)");
+        idList.put(0x034E, "Link (Skyward Sword) (LOZ)");
         idList.put(0x034F, "8-bit Link (The Legend of Zelda) (LOZ)");
         idList.put(0x0350, "Toon Link (The Wind Waker) (LOZ)");
         idList.put(0x0352, "Toon Zelda (The Wind Waker) (LOZ)");
@@ -761,7 +764,7 @@ public class AmiiboDictionary {
         charList.put(0x00130000, "Daisy");
         charList.put(0x00140000, "Waluigi");
         charList.put(0x00170000, "Boo");
-        charList.put(0x01000000, "Link (Ocarina of Time)");
+        charList.put(0x01000000, "Link");
         charList.put(0x01000100, "Toon Link (The Wind Waker)");
         charList.put(0x01010000, "Toon Zelda (The Wind Waker)");
         charList.put(0x01010100, "Sheik");
